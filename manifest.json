@@ -5,7 +5,8 @@
   "short_name": "Taylor Swift",
 	"description": "Replaces the text 'Open Data Institute' with 'Taylor Swift Institute'.",
 	"author": "Sam Pikesley",
-	"version": "1.0",
+	"version": "1.2",
+	"homepage_url": "https://github.com/pikesley/taylor-swift-institute",
 
 	"icons": {
 		"16": "icon16.png",
