@@ -38,6 +38,7 @@ function replaceText(v)
 	// Taylor
 	v = v.replace(/\bOpen Data Institute\b/g, "Taylor Swift Institute");
 	v = v.replace(/\bODI\b/g, "TSI");
+	v = v.replace(/\bopen data\b/gi, "Taylor Swift");
 
 	return v;
 }
