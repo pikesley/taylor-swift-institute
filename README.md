@@ -1,1 +1,1 @@
-# The Taylor Swift Institute
+![Taylor Swift Institute](http://i.imgur.com/BY6wBrn.gif)
